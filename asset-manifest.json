@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/megaquiz/static/css/main.0eb5c6f6.css",
-    "main.js": "/megaquiz/static/js/main.729c2886.js",
+    "main.js": "/megaquiz/static/js/main.8d7e2ba4.js",
     "static/media/emergebg.jpg": "/megaquiz/static/media/emergebg.9e3d4f6e5174ea9f9457.jpg",
     "static/media/CIVISTAbg.jpg": "/megaquiz/static/media/CIVISTAbg.ee2cc23a3898b58881bd.jpg",
     "static/media/MECHAURAbg.jpg": "/megaquiz/static/media/MECHAURAbg.01dfebfd57fbf1632359.jpg",
     "static/media/RADIANCEbg.jpg": "/megaquiz/static/media/RADIANCEbg.a8f4f3606be4c880d876.jpg",
     "index.html": "/megaquiz/index.html",
     "main.0eb5c6f6.css.map": "/megaquiz/static/css/main.0eb5c6f6.css.map",
-    "main.729c2886.js.map": "/megaquiz/static/js/main.729c2886.js.map"
+    "main.8d7e2ba4.js.map": "/megaquiz/static/js/main.8d7e2ba4.js.map"
   },
   "entrypoints": [
     "static/css/main.0eb5c6f6.css",
-    "static/js/main.729c2886.js"
+    "static/js/main.8d7e2ba4.js"
   ]
 }
